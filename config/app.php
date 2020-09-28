@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://mys-awe-site-heroku.herokuapp.com/'),
+    'url' => env('APP_URL', 'https://my-awe-site-heroku.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
