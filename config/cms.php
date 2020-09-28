@@ -360,7 +360,7 @@ return [
     |
     */
 
-    'linkPolicy' => env('LINK_POLICY', 'secure'),
+    'linkPolicy' => env('LINK_POLICY', 'force'),
 
     /*
     |--------------------------------------------------------------------------
